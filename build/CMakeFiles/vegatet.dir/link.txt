@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/vegatet.dir/SpatialHashing.cpp.o CMakeFiles/vegatet.dir/main.cpp.o  -o ../bin/vegatet 

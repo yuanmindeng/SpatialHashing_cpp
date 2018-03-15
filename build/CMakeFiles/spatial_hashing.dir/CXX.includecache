@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuanmin/project/NeuralMaterial-matlab/SpatialHashing_cpp/SpatialHashing.cpp
+SpatialHashing.h
+/Users/yuanmin/project/NeuralMaterial-matlab/SpatialHashing_cpp/SpatialHashing.h
+
+/Users/yuanmin/project/NeuralMaterial-matlab/SpatialHashing_cpp/SpatialHashing.h
+vector
+-
+float.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+map
+-
+
+/Users/yuanmin/project/NeuralMaterial-matlab/SpatialHashing_cpp/main.cpp
+SpatialHashing.h
+/Users/yuanmin/project/NeuralMaterial-matlab/SpatialHashing_cpp/SpatialHashing.h
+
